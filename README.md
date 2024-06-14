@@ -6,7 +6,9 @@ This project is an advanced AI/ML-based football analysis system that leverages 
 
 ## Output Video
 
-![Output Video](output_videos/output_video.avi)
+The output video can be found [here](output_videos/output_video.avi) or a screenshot can be viewed below:
+
+![Output Video](output_videos/image.png)
 
 ## Project Structure
 
