@@ -87,7 +87,7 @@ The output video can be found [here](output_videos/output_video.avi) or played [
 
 ## Further Research and Development
 
-1. **Player Action Recognition**: Implement models to recognize specific player actions like passes, shots, tackles.
+1. **Player Action Recognition**: Implement models to recognize specific player actions like passes, shots, tackles and maintain their counts for each team.
 2. **Tactical Analysis**: Analyze team formations, player heatmaps, and passing networks.
 3. **Referee Decision Analysis**: Automate the review of key decisions like offsides and fouls.
 4. **Integration with Wearable Data**: Combine video analysis with data from player wearables for enhanced insights.
